@@ -202,6 +202,8 @@ int main()
 {
     cout << "Retro Snake Game using raylib..... " << endl;
 
+    // SetConfigFlags(FLAG_WINDOW_RESIZABLE);
+
     InitWindow(((2 * offSet) + cellSize * cellCount), 
                 ((2  * offSet) + cellSize * cellCount), "Retro Snake Game");
 
