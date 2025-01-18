@@ -2,7 +2,7 @@
 
 The OG Snake game with color combition as seen in Nothing OS
 
-you can checkout/play the game live here in fullscreen mode : [play](https://sumeetgedam.github.io/snake_game_using_raylib_CPP/snake.html)
+you can checkout/play the game live here : [play](https://sumeetgedam.github.io/snake_game_using_raylib_CPP/snake.html)
 
 Thanks to [@educ8s](https://github.com/educ8s) for the template and tutorial to get started with rayLib which made the development easier
 
